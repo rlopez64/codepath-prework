@@ -25,7 +25,7 @@ class ViewController: UIViewController {
         
         jobTitle.text = "Ideal Job: Tortise Catcher"
         jobTitle.textColor = .white
-        totrise.image = UIImage(named: "turt")
+        totrise.image = UIImage(named: "tortise2")
     }
     
     
